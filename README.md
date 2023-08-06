@@ -6,7 +6,7 @@ The project aims to automatically detect whether a person is wearing a face mask
 
 The face mask detection system is based on deep learning algorithms that are trained on a dataset of labeled images with and without masks. The model can accurately detect whether a person is wearing a mask in real-time video feeds or images.
 
-### The system is built using Python, OpenCV, and TensorFlow. The trained model is deployed using Flask, which provides a simple web interface for users to upload images or videos and receive the mask detection results.
+### The system is built using Python, OpenCV, and TensorFlow.
 
 ### Dataset
 
